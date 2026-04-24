@@ -47,7 +47,7 @@ int main() {
     }
 
     // load shader form res/shaders/
-    Shader ourShader("res/shaders/vertexshader.glsl", "res/shaders/fragmentshader.glsl");
+    Shader ourShader("res/Shaders/vertexshader.glsl", "res/Shaders/fragmentshader.glsl");
 
   
     GLfloat tri1[] = {
