@@ -1,0 +1,1 @@
+This Projects is a basic OPENGL project that creates two triangles , the user is able to moe the triangle with the arrows and using the Tab button the triangles switches between the Solid and Wireframe mode 
